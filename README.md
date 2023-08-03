@@ -1,5 +1,5 @@
 # Mental-Fitness-Tracker
-The Mental Fitness Tracker utilizes Google Colab, offering a user-friendly development environment. It incorporates essential components like preprocessing, feature engineering, model training, and result analysis. The project leverages various Python libraries and frameworks, including pandas, scikit-learn, and matplotlib, to accomplish its objectives.
+The Mental Fitness Tracker utilizes Jupyter notebook and Google Colab, offering a user-friendly development environment. It incorporates essential components like preprocessing, feature engineering, model training, and result analysis. The project leverages various Python libraries and frameworks, including pandas, scikit-learn, and matplotlib, to accomplish its objectives.
 # Key Feature
 User-Friendly Development Environment:
 The project is designed to be accessible and easy to use within the Google Colab environment, allowing users to interact with the tracker efficiently.
