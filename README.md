@@ -21,8 +21,7 @@ Various Python libraries and frameworks, such as pandas, scikit-learn, and matpl
 
 Interactive Interface:
 The Mental Fitness Tracker project might incorporate an interactive interface, enabling users to input data, view results, and interact with the models in a user-friendly manner.
-# Customization
-Feel free to customize the CSS styles in the styles.css file to match your preferences and branding.
+
 
 # Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
