@@ -25,7 +25,7 @@ Depression=st.number_input('Enter your Depression rate')
 st.write(Depression)
 Alcohol_Consuming=st.number_input('Enter your Alcohol usage rate')
 st.write(Alcohol_Consuming)
-pickled_model = pickle.load(open(r"C:\Users\Harshit Dinesh Kapur\OneDrive\Documents\model.pickle", 'rb'))
+pickled_model = pickle.load(open(r"model.pickle", 'rb'))
 df=pd.DataFrame({'Country':Country,'Code':Code,'Year':Year,'Schizophrenia':Schizophrenia,'Bipolar':Bipolar,'Eating':Eating_disorder,'Anxiety':Anxiety_rate,'Drug use':Drug_usage,'Depression':Depression,'Alcohol_use':Alcohol_Consuming},index=[0])
 from sklearn.preprocessing import LabelEncoder
 l=LabelEncoder()
