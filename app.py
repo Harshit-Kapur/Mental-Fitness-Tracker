@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import os
-import sklearn
+
 st.title('Mental Fitness Tracker')
 st.text('Fill the detail to check your mental fitness!')
 
